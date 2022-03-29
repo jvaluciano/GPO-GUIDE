@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(32, 32, 32);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 40px;
+}
+h2 {
+    color: rgb(162, 0, 255);
+}
+p {
+    font-size: 25px;
+    text-align: center;
+    color: azure;
+}
+b {
+    color: rgb(86, 89, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a {
+    color: azure;
+}
+video {
+    width: 500px;
+}
+picture img{
+    width: 300px;
+}
+img {
+    width: 70px;
+    text-align: unset;
+}
